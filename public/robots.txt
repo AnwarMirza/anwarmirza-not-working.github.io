@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://anwarmirza.github.io/sitemap.xml
