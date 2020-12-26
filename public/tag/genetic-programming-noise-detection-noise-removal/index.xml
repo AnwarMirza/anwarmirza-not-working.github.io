@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic Programming, Noise Detection, Noise Removal | AnwarMirza</title>
+    <link>https://anwarmirza.github.io/tag/genetic-programming-noise-detection-noise-removal/</link>
+      <atom:link href="https://anwarmirza.github.io/tag/genetic-programming-noise-detection-noise-removal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetic Programming, Noise Detection, Noise Removal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© All rights reserved. Anwar M. Mirza. 2015 - 2020.</copyright><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://anwarmirza.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Genetic Programming, Noise Detection, Noise Removal</title>
+      <link>https://anwarmirza.github.io/tag/genetic-programming-noise-detection-noise-removal/</link>
+    </image>
+    
+    <item>
+      <title>Multi-denoising based impulse noise removal from images using robust statistical features and genetic programming</title>
+      <link>https://anwarmirza.github.io/publication-copy/multi-denoising-based-impulse-noise-removal-from-images/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://anwarmirza.github.io/publication-copy/multi-denoising-based-impulse-noise-removal-from-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-denoising based impulse noise removal from images using robust statistical features and genetic programming</title>
+      <link>https://anwarmirza.github.io/publication/multi-denoising-based-impulse-noise-removal-from-images/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://anwarmirza.github.io/publication/multi-denoising-based-impulse-noise-removal-from-images/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

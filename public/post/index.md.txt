@@ -1,0 +1,8 @@
+---
+#header:
+#  caption: ""
+#  image: ""
+#title: Posts Index
+#view: 4
+#type: widget_page
+---
